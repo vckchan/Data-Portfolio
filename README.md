@@ -21,7 +21,8 @@ Created a Power BI dashboard to visualize misdemeanor/felony trends and analyze 
 
 ## Diamond Program Recruitment & Retention Analysis  
 **Tools:** Power BI, Excel, Data Visualization  
-Analyzed national chapter data from Fall 2023 to Spring 2025, uncovering a 90% retention rate following the Diamond Program rollout.  
-Highlights include regional trends, chapter engagement metrics, and pre-/post-program comparisons.  
-📄 [Diamond_Program_Analysis.pdf](Diamond_Program_Analysis.pdf)
+Analyzed national chapter data from Fall 2023 to Spring 2025, revealing a 90% retention rate following the implementation of the Diamond Program.  
+Explored regional trends, chapter engagement, and training metrics to support program evaluation and strategic planning.  
+📄 [View Full Presentation (PDF)](Data%20Analysis%20%28Recruitment%20and%20Retention%29.pdf)
+
 
