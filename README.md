@@ -19,7 +19,9 @@ Created a Power BI dashboard to visualize misdemeanor/felony trends and analyze 
 
 ---
 
-## Diamond Program Retention Dashboard
-**Tools:** Excel, Power BI  
-Developed a dashboard showing 90% member retention after the Diamond Program launch, improving chapter planning and engagement.
-View the project overview: [Claude Artifact](https://claude.ai/public/artifacts/1f18e616-f36a-4f18-8072-44d828030bf8)
+## Diamond Program Recruitment & Retention Analysis  
+**Tools:** Power BI, Excel, Data Visualization  
+Analyzed national chapter data from Fall 2023 to Spring 2025, uncovering a 90% retention rate following the Diamond Program rollout.  
+Highlights include regional trends, chapter engagement metrics, and pre-/post-program comparisons.  
+📄 [Diamond_Program_Analysis.pdf](Diamond_Program_Analysis.pdf)
+
