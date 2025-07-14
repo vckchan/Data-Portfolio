@@ -3,6 +3,7 @@
 A collection of academic, internship, and independent data projects focused on analysis, dashboards, and storytelling.
 
 ---
+
 ## Diamond Program Recruitment & Retention Analysis  
 **Tools:** Power BI, Excel, Data Visualization  
 Analyzed national chapter data from Fall 2023 to Spring 2025, revealing a 90% retention rate following the implementation of the Diamond Program.  
